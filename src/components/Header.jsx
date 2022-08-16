@@ -2,9 +2,9 @@
 
 const Header = () => {
   return (
-    <Header>
+    <header>
       asdas
-    </Header>
+    </header>
   );
 };
 
